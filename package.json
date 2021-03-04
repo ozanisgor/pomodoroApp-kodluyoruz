@@ -11,5 +11,10 @@
     "js"
   ],
   "author": "Ozan Isgor Kodluyoruz JS Bootcamp",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.24.3",
+    "webpack-cli": "^4.5.0",
+    "webpack-dev-server": "^3.11.2"
+  }
 }
