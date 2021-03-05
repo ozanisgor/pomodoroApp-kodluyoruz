@@ -1,0 +1,7 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "prefer-destructuring": ["error", { "object": true, "array": true }],
+    "no-var": ["error"]
+  }
+}
